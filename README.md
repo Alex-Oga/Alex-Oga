@@ -14,7 +14,7 @@
 ## 📫 Experience
 - Internship: Data Analytics at the Body Department of Ford Motor Company (Thailand) Limited from 5th August - 13th December 2024
 ## ⚡ Contact Information
-- Email: [lexanderoga@gmail.com](lexanderoga@gmail.com)
+- Email: [lexanderoga@gmail.com](mailto:lexanderoga@gmail.com)
 - LinkedIn: [alexander-ogay-n01](http://www.linkedin.com/in/alexander-ogay-n01)
 - Phone Number: (+66) 90-872-7814
 
