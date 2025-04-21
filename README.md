@@ -9,8 +9,8 @@
 ## 😄 About Me
 - A graduate of Mahidol University International College, I finished my Bachelor's Degree with a Major in Computer Science and a Minor in Marketing
 ## 🌱 Skills
-- Programming Languages: Python, Java, Scala, Rust, R, SQL, C, C++, Bash, HTML, CSS
-- Tools: Git, GitHub, Jupyter Notebook, PyCharm, IntelliJ, Visual Studio Code, RStudio, DataGrip (PostgreSQL)
+- Programming Languages: Python, Java, Scala, Rust, R, Ruby, SQL, C, C++, Bash, HTML, CSS
+- Tools: Git, GitHub, Jupyter Notebook, PyCharm, IntelliJ, Visual Studio Code, RStudio, Rails, DataGrip (PostgreSQL)
 ## 📫 Experience
 - Internship: Data Analytics at the Body Department of Ford Motor Company (Thailand) Limited from 5th August - 13th December 2024
 ## ⚡ Contact Information
